@@ -20,6 +20,6 @@ public class UserServiceImpl implements IUserService{
 
     @Override
     public void register(String username, String password) {
-
+        System.out.println();
     }
 }
